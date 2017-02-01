@@ -1,3 +1,5 @@
+### This is not official repository of Pritunl. 
+
 # pritunl: enterprise vpn server
 
 [![github](https://img.shields.io/badge/github-pritunl-11bdc2.svg?style=flat)](https://github.com/pritunl)
@@ -11,8 +13,8 @@ information can be found at the home page [pritunl.com](https://pritunl.com)
 
 ## Install From Source
 
-```bash
-export VERSION=X.XX.XX.XX # Set current pritunl version here
+```
+bash export VERSION=X.XX.XX.XX # Set current pritunl version here
 
 wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 rpm -i epel-release-latest-7.noarch.rpm
